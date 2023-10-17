@@ -13,25 +13,6 @@ You can install them using pip:
 ```bash
 pip install pandas matplotlib
 ```
-
-## Installation
-
-To run this code, follow these steps:
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/your-repository.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd your-repository
-```
-
-3. Open the Jupyter Notebook `Untitled0.ipynb` using Jupyter Notebook or any compatible environment.
-
 ## Data
 
 The dataset used in this project is available in `data.csv`. The data contains information about various countries, including columns like `year`, `gdp_cap`, `life_exp`, `country`, and `continent`.
